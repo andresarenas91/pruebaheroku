@@ -11,6 +11,10 @@
 
 <section>
 	<div>Esto es un mensaje de prueba para heroku</div>
+	<form>
+		Nombre: <input type="" name="">
+
+	</form>
 </section>
 <footer>
 	<ul>
